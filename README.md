@@ -1,4 +1,5 @@
                     # lci - a LOLCODE interpreter written in C
+                    # the Windows version is at https://github.com/AlexDev404/lci-win
 
 # LICENSE
 
